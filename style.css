@@ -1,0 +1,28 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: rgb(173, 208, 178);
+}
+
+h1 {
+  font-size: 32px;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#today {
+  background-color: rgb(217, 201, 232);
+  font-weight: bold;
+  margin: 20px 0;
+  padding: 15px 30px;
+}
