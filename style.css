@@ -26,3 +26,9 @@ h1 {
   margin: 20px 0;
   padding: 15px 30px;
 }
+
+#work-hours {
+  margin: 15px 0;
+  padding: 15px 25px;
+  text-align: center;
+}
